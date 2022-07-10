@@ -24,3 +24,6 @@ priciest_pizza = pizza_and_prices[-1]
 
 #removing most expensive pizza
 pizza_and_prices.pop()
+
+#adding new topping
+pizza_and_prices.insert(3, [2.5, 'red peppers'])
