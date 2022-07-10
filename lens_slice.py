@@ -18,3 +18,5 @@ print(pizza_and_prices)
 #sorting pizza_and_prices by price from low-high
 pizza_and_prices.sort()
 print(pizza_and_prices)
+
+cheapest_pizza = pizza_and_prices[0]
