@@ -10,3 +10,7 @@ print(num_two_dollar_slices)
 num_pizzas = len(toppings)
 
 print('We sell ' + str(num_pizzas) + ' different kinds of pizza!')
+
+#new two-dimensional toppings list
+pizza_and_prices = [[3, 'canadian bacon'], [2, 'tomatoes'], [4, 'green peppers'], [3, 'onions'], [1, 'parmesan'], [2, 'chicken']]
+print(pizza_and_prices)
