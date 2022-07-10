@@ -8,3 +8,5 @@ print(num_two_dollar_slices)
 
 #types of pizza
 num_pizzas = len(toppings)
+
+print('We sell ' + str(num_pizzas) + ' different kinds of pizza!')
