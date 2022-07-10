@@ -14,3 +14,7 @@ print('We sell ' + str(num_pizzas) + ' different kinds of pizza!')
 #new two-dimensional toppings list
 pizza_and_prices = [[3, 'canadian bacon'], [2, 'tomatoes'], [4, 'green peppers'], [3, 'onions'], [1, 'parmesan'], [2, 'chicken']]
 print(pizza_and_prices)
+
+#sorting pizza_and_prices by price from low-high
+pizza_and_prices.sort()
+print(pizza_and_prices)
