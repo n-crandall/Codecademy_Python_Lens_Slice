@@ -27,3 +27,5 @@ pizza_and_prices.pop()
 
 #adding new topping
 pizza_and_prices.insert(3, [2.5, 'red peppers'])
+
+three_cheapest = pizza_and_prices[:3]
